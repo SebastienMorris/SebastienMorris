@@ -5,7 +5,7 @@ I have a passion for developing tools and software, focusing on low-level archit
 
 ### Skills
 * **Code Languages:** C++, C#, Python, HLSL (Compute, Fragment, Tesselation)
-* **APIs & Frameworks:** .NET, WPF, Direct3D 11/12, OpenGL, ImGui
+* **APIs & Frameworks:** .NET, WPF, WebGPU, Direct3D 11/12, OpenGL, ImGui
 * **Environments & Tools:** Perforce, Git, RenderDoc, Visual Studio, JetBrains (Rider, CLion, PyCharm)
 
 ### Active Projects
