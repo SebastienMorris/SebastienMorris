@@ -1,6 +1,6 @@
 # Sébastien Morris | Software Engineer
 
-I am a software engineer specialising in engines, tools, and simulation systems, with a master's degree from CNAM ENJMIN and 3 years of professional experience across the French Navy and Ubisoft Paris. 
+I am a software engineer specialising in engines, tools, and GPU systems, with a master's degree from ENJMIN and 3 years of professional experience across the French Navy and Ubisoft Paris. 
 I have a passion for developing tools and software, focusing on low-level architecture, real-time graphics, and simulation systems.
 
 ### Skills
